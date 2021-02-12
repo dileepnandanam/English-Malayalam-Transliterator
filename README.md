@@ -2,7 +2,7 @@
 
 Transliterate english to malayalam using Decision tree.
 
-##Usage
+## Usage
 
 $ git clone git@github.com:dileepnandanam/English-Malayalam-Transliterator.git
 
